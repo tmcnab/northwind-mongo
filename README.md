@@ -13,4 +13,4 @@
 * It's a straight data dump - no relations or special magic
 
 
-Thanks to @shayden for the csv dump. Buyer beware, caveat emptor, carthago delenda est et al
+Thanks to [@shayden](https://github.com/shayden) for the csv dump. Buyer beware, caveat emptor, carthago delenda est et al
